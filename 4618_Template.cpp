@@ -21,7 +21,7 @@
 
 int main(int argc, char* argv[])
 {
-	CPong game(1000, 750);
+	CPong game(900, 750);
 	
 		game.run();
 
