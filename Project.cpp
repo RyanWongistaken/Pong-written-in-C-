@@ -1,6 +1,10 @@
-////////////////////////////////////////////////
-// Added a header comment
-////////////////////////////////////////////////
+/**
+*
+* @brief Sample Code from Teacher
+*
+* @author Ryan Wong
+*
+*/
 #include "stdafx.h"
 
 #include "cv.h"

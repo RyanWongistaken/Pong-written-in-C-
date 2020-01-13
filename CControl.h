@@ -8,7 +8,6 @@
 * @author Ryan Wong
 *
 */
-
 #pragma once	
 #include "Serial.h"
 #include "stdafx.h"
@@ -18,8 +17,6 @@
 #include <iomanip>
 #include <cstdlib>
 #include <fstream>
-
-//adding this commment as a test
 
 typedef enum {DIGITAL, ANALOG, SERVO} type;//DIGITAL = 0 ANALOG = 1 SERVO = 2
 

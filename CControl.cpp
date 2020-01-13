@@ -1,13 +1,13 @@
 ///////////////////////////////////////////////////////////
 //
 //		CControl methodes by Ryan Wong
+//		Last date modified: 1-13-2020
 //
 ////////////////////////////////////////////////////////
 
 #include "stdafx.h"
 #include "CControl.h"
 #include <sstream>
-
 
 /** @brief retrieves data from the arduino based on the input parameters
 *
@@ -95,6 +95,12 @@ CControl::CControl()
 	arduino.open("COM3");
 }
 
+
+/** @brief Did not need the destructor
+*
+* @parameter dosnt take a parameter
+* @return returns nothing
+*/
 CControl::~CControl()
 {
 

@@ -1,6 +1,10 @@
-///////////////////////////////////////////////////////////////////
-// Prepared for BCIT ELEX4618, April 2017, by Craig Hennessey
-///////////////////////////////////////////////////////////////////
+/**
+*
+* @brief Made to demonstrate client/Server code by Craig Hennessey 
+*
+* @author Ryan Wong
+*
+*/
 #include "stdafx.h"
 #include <iostream>
 

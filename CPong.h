@@ -1,5 +1,10 @@
-
-
+/**
+*
+* @brief Object Decleration 
+*
+* @author Ryan Wong
+*
+*/
 #pragma once
 #include "Serial.h"
 #include "stdafx.h"
